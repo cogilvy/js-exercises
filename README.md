@@ -3,7 +3,7 @@
 This repo contains exercises on different topics of Javascript in order to give you more hands on practice with it!
 
 ## Setup
-Most of the exercises will instruct you to create a REPL to complete your work in. REPL is an online code editor that is easy and free to use, you will just need to signup for an account.
+Most of the exercises will instruct you to create a REPL to complete your work in. [REPL](https://replit.com/) is an online code editor that is easy and free to use, you will just need to signup for an account.
 
 While the use of REPL is recommended, if you prefer to use another code editor like VS Code or Sublime, you will need to have Node installed on your machine to run javascript files.
 
